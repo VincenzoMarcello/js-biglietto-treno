@@ -17,5 +17,4 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 - Moltiplico il numero di km per 0.21
   **SE** ha meno di 18 anni applico uno sconto del 20%
   **ALTRIMENTI** **SE** ha più di 65 anni applico uno sconto del 40%
-  **ALTRIMENTI** non applico alcuno sconto
 - Stampo il biglietto
